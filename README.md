@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development in Masai school**
 
-- 👨‍💻 All of my projects are available at [https://akhilesh-portfolio.vercel.app/](https://akhilesh-portfolio-akhileshjavalagi.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://akhilesh-portfolio.vercel.app/](https://portfolio-akhileshjavalagi.vercel.app/)
 
 - 💬 Ask me about **React, Javascript, Css, Html, Nodejs, MongoDb, Express**
 
